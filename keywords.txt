@@ -1,0 +1,24 @@
+#######################################
+# HTTP Connection with NodeRed Server for Arduino Boards
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NodeRedServer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+setDigital	KEYWORD2
+readDigital	KEYWORD2
+setAnalog	KEYWORD2
+readAnalog KEYWORD2
+sendMessage KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
